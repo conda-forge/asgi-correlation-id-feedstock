@@ -1,5 +1,5 @@
 {% set name = "asgi-correlation-id" %}
-{% set version = "3.2.1" %}
+{% set version = "3.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/asgi_correlation_id-{{ version }}.tar.gz
-  sha256: c2370cbf3a71dd33dd4f067495ba87d0afdbb45b5256f1d05362e3a20d4efe60
+  sha256: 44efd29e5bfe31419f67658b9a37245ed6fec662ff7738801050d78daea0c307
 
 build:
   noarch: python

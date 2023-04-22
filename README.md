@@ -1,11 +1,11 @@
-About asgi-correlation-id
-=========================
+About asgi-correlation-id-feedstock
+===================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/asgi-correlation-id-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/snok/asgi-correlation-id
 
 Package license: BSD-4-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/asgi-correlation-id-feedstock/blob/main/LICENSE.txt)
 
 Summary: Middleware correlating project logs to individual requests
 
